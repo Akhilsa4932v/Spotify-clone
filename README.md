@@ -1,6 +1,6 @@
 # Spotify-clone
 Welcome to my Spotify Clone project! This repository houses my attempt to recreate the iconic look and feel of Spotify
-![Spotify clone (2)](https://github.com/Akhilsa4932v/Spotify-clone/assets/137908360/b00f3e15-fa23-4906-8754-ea48fee7920c)
+![Spotify clone](https://github.com/Akhilsa4932v/Spotify-clone/assets/137908360/39244a81-068d-4ed4-a1a0-7bc690074b8c)
 
 
 # Spotify Clone with HTML & CSS
