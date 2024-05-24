@@ -5,7 +5,7 @@ Welcome to my Spotify Clone project! This repository houses my attempt to recrea
 
 # Spotify Clone with HTML & CSS
 Focusing purely on the front-end aspect using HTML and CSS. This project aims to mirror the visual aspects of Spotify's web version, capturing its essence and functionality through static web pages.
-Recreating such a design was both a challenge and a fantastic learning opportunity. This clone attempts to replicate several key features of Spotify, including the homepage, the search functionality layout, and the library page
+Recreating such a design was both a challenge and a fantastic learning opportunity. This clone attempts to replicate several key features of Spotify, including the homepage.
 
 # Technologies Used
 HTML: Used for structuring the web content and creating the foundational layout of the Spotify clone.
